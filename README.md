@@ -6,5 +6,7 @@ sudo apt install slurp grim wl-clipboard lxqt-panel-plugins lxqt-qtplugin qtermi
 ```
 
 ## copy config files
-way-screenshot.sh > ~/.local/bin
-labwc > ~/.config/labwc
+- way-screenshot.sh > ~/.local/bin
+- labwc > ~/.config/labwc
+
+
