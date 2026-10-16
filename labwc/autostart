@@ -1,0 +1,5 @@
+lxqt-panel &
+pcmanfm-qt --desktop &
+lxqt-notification-daemon &
+lxqt-policykit-agent &
+lxqt-config-appearance --apply &
