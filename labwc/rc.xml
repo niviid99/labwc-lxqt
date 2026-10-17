@@ -27,27 +27,4 @@
       <action name="Execute" command="sh -c $HOME/.local/bin/way-screenshot.sh" />
     </keybind>
   </keyboard>
-
-  <mouse>
-    <default />
-    
-    <context name="Frame">
-      <mousebind button="W-left" action="Drag">
-        <action name="Move" />
-      </mousebind>
-      <mousebind button="W-right" action="Drag">
-        <action name="Resize" />
-      </mousebind>
-    </context>
-
-    <context name="Client">
-      <mousebind button="W-left" action="Drag">
-        <action name="Move" />
-      </mousebind>
-      <mousebind button="W-right" action="Drag">
-        <action name="Resize" />
-      </mousebind>
-    </context>
-  </mouse>
-
 </labwc_config>
