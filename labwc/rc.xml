@@ -20,11 +20,15 @@
     </keybind>
 
     <keybind key="W-Return">
-      <action name="Execute" command="qterminal" />
+      <action name="Execute" command="alacritty" />
     </keybind>
 
     <keybind key="Print">
       <action name="Execute" command="sh -c $HOME/.local/bin/way-screenshot.sh" />
+    </keybind>
+
+    <keybind key="W-Space">
+      <action name="Execute" command="wofi --show drun" />
     </keybind>
   </keyboard>
 </labwc_config>
